@@ -552,6 +552,81 @@ form p{
         margin: 10px 0;
    }
 
+
+/* Footer section code start here */
+
+footer{
+
+    background-color: #154360;
+    padding: 100px 0 50px 0;
+}
+
+
+.footer-parentdiv{
+
+     display: flex;
+     gap: 80px;
+     margin-left: 200px;
+     margin-right: 200px;
+     color: white;
+
+}
+
+.single-footer{
+
+    width: 100%;
+}
+
+.single-footer h5{
+
+     margin-bottom: 25px;
+     letter-spacing: 4px;
+}
+
+.single-footer-2 p{
+
+    margin: 15px;
+    color: white;
+}
+.single-footer-2 p a{
+
+    color: white;
+    text-decoration: none;
+}
+
+.single-footer-3 ul{
+
+     display: flex;
+     
+
+}
+
+.single-footer-3 ul li{
+
+    list-style-type: none;
+
+}
+.single-footer-3 ul li a{
+
+    color: white;
+    text-decoration: none;
+    font-size: 20px;
+    margin: 0px 5px;
+    background-color: #0a273863;
+    padding: 8px;
+    border-radius: 5px;
+}
+
+.single-footer h5 span {
+
+        color: yellow;
+}
+
+hr{
+
+    margin: 80px 0px 30px 0;
+    
+}
    
 
 
@@ -685,6 +760,31 @@ form p{
     margin-bottom: 60px;
  }
 
+ /* Footer section work star here */
+
+ .footer-parentdiv{
+
+    display: flex;
+    flex-direction: column;
+    
+    margin-left: 30px;
+    margin-right: 30px;
+    color: white;
+
+}
+
+.single-footer{
+
+    
+    text-align: center;
+}
+
+.single-footer-3  ul{
+
+    display: flex;
+    justify-content: center;
+}
+
     
 
 }
@@ -800,6 +900,16 @@ form{
     margin-bottom: 60px;
 }
 
+
+/* Footer section work start */
+
+.footer-parentdiv{
+
+    
+    margin-left: 70px;
+    margin-right: 70px;
+    
+}
 
 
 
